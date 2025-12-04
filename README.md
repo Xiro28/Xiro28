@@ -2,6 +2,7 @@ Hi, I'm Lorenzo 👋
 Passionate about Embedded Hardware and Large Language Models (LLMs). This repository serves as a sandbox for my experiments, prototypes, and project ideas.
 
 🚀 Highlights & Achievements
+
 National PhD Program: Currently enrolled.
 
 IEEE 2025 Speaker: Presented at DaaS - ATS.
